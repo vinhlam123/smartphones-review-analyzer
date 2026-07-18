@@ -17,3 +17,8 @@ venv/
 .vscode/
 *.pem
 *.key
+# Allow summary CSVs for Streamlit deployment
+!data/processed/summary_brand.csv
+!data/processed/summary_brand_topic.csv
+!data/processed/summary_brand_price.csv
+!data/processed/summary_features.csv

@@ -13,7 +13,7 @@ How do brand loyalty and price influence customer sentiment toward smartphone fe
 - OnePlus and Huawei have the highest customer sentiment despite lower brand recognition
 - Apple has the lowest VADER score (0.336) despite premium pricing
 - AI camera mentions produce the largest sentiment boost (+0.41)
-- Google Assistant scores highest among voice assistants (0.709) vs Bixby (0.347)
+- Google Assistant scores highest among voice assistants (0.709)
 - Premium phones score 20% higher sentiment than budget phones
 - Problems and Returns is the only net-negative topic across all 15 LDA topics
 

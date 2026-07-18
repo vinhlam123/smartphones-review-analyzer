@@ -20,7 +20,7 @@ How do brand loyalty and price influence customer sentiment toward smartphone fe
 ## Dataset
 - Amazon Unlocked Mobile: 413,840 reviews
 - Scraped Amazon Reviews 2019: 67,986 reviews
-- Combined after cleaning: 124,108 reviews across 9 brands
+- Combined after cleaning: 124,108 reviews across 6 brands
 
 ## Tech Stack
 - Python 3.11, Pandas, NLTK

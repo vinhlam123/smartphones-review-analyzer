@@ -1,0 +1,136 @@
+brand,topic_label,review_count,avg_vader,avg_rating,pct_positive
+Apple,Audio & Sound,290,-0.052,2.328,33.448
+Apple,Battery Life,1138,-0.131,2.108,34.095
+Apple,Brand Comparison,680,0.537,4.182,80.441
+Apple,Calling & Messaging,671,0.016,2.292,40.537
+Apple,Camera Quality,54,0.297,3.407,61.111
+Apple,General Satisfaction,5369,0.678,4.667,92.252
+Apple,International Reviews,313,-0.113,3.195,18.53
+Apple,Network & Carriers,765,0.149,2.511,50.065
+Apple,Overall Value,701,0.629,4.437,89.158
+Apple,Packaging & Accessories,804,0.149,3.126,52.985
+Apple,Problems & Returns,1439,-0.057,1.914,37.387
+Apple,Purchase Decision,560,0.446,3.909,76.071
+Apple,Screen & Design,567,0.285,3.319,62.963
+Apple,Software & Apps,227,0.352,3.467,66.52
+Apple,Unlocked & International Buying,971,-0.03,2.018,36.766
+Google,Audio & Sound,59,-0.087,2.153,40.678
+Google,Battery Life,276,-0.007,2.438,42.754
+Google,Brand Comparison,135,0.615,4.356,88.148
+Google,Calling & Messaging,150,-0.03,2.087,42.667
+Google,Camera Quality,126,0.636,4.365,86.508
+Google,General Satisfaction,534,0.681,4.684,91.386
+Google,International Reviews,39,-0.068,3.897,28.205
+Google,Network & Carriers,83,0.217,2.566,56.627
+Google,Overall Value,445,0.746,4.569,94.607
+Google,Packaging & Accessories,221,0.292,3.43,61.991
+Google,Problems & Returns,416,-0.071,1.889,40.865
+Google,Purchase Decision,75,0.49,3.92,80.0
+Google,Screen & Design,248,0.529,3.669,76.21
+Google,Software & Apps,201,0.419,3.294,71.642
+Google,Unlocked & International Buying,103,-0.009,2.078,34.951
+Huawei,Audio & Sound,33,0.015,2.697,51.515
+Huawei,Battery Life,205,0.308,3.615,63.415
+Huawei,Brand Comparison,212,0.695,4.774,89.151
+Huawei,Calling & Messaging,139,0.163,2.827,56.115
+Huawei,Camera Quality,63,0.718,4.746,93.651
+Huawei,General Satisfaction,292,0.7,4.736,92.466
+Huawei,International Reviews,219,0.004,4.137,21.461
+Huawei,Network & Carriers,132,0.318,3.114,59.848
+Huawei,Overall Value,961,0.754,4.686,93.965
+Huawei,Packaging & Accessories,78,0.148,2.795,52.564
+Huawei,Problems & Returns,137,0.08,2.117,51.825
+Huawei,Purchase Decision,123,0.63,4.447,87.805
+Huawei,Screen & Design,256,0.686,4.328,87.891
+Huawei,Software & Apps,348,0.568,3.747,81.609
+Huawei,Unlocked & International Buying,107,0.008,2.439,41.121
+LG,Audio & Sound,199,0.078,2.819,51.256
+LG,Battery Life,780,-0.055,2.356,37.692
+LG,Brand Comparison,311,0.657,4.576,88.103
+LG,Calling & Messaging,1140,0.1,2.722,50.263
+LG,Camera Quality,133,0.579,4.331,84.211
+LG,General Satisfaction,1927,0.68,4.586,92.683
+LG,International Reviews,160,0.196,3.688,48.75
+LG,Network & Carriers,605,0.246,2.884,58.843
+LG,Overall Value,1786,0.724,4.479,94.009
+LG,Packaging & Accessories,415,0.149,3.101,52.53
+LG,Problems & Returns,1135,-0.076,1.87,38.678
+LG,Purchase Decision,1056,0.522,4.172,81.723
+LG,Screen & Design,605,0.488,3.699,76.86
+LG,Software & Apps,558,0.418,3.613,72.581
+LG,Unlocked & International Buying,536,0.024,2.323,42.724
+Motorola,Audio & Sound,251,0.139,2.829,53.386
+Motorola,Battery Life,1121,-0.009,2.434,43.979
+Motorola,Brand Comparison,455,0.611,4.47,86.593
+Motorola,Calling & Messaging,941,0.103,2.64,51.647
+Motorola,Camera Quality,110,0.533,4.282,84.545
+Motorola,General Satisfaction,1538,0.668,4.529,90.897
+Motorola,International Reviews,272,-0.015,3.787,24.265
+Motorola,Network & Carriers,731,0.243,2.804,57.592
+Motorola,Overall Value,2393,0.731,4.566,93.732
+Motorola,Packaging & Accessories,342,0.078,2.684,48.538
+Motorola,Problems & Returns,1280,-0.028,1.959,41.953
+Motorola,Purchase Decision,973,0.531,4.254,82.631
+Motorola,Screen & Design,856,0.497,3.807,75.818
+Motorola,Software & Apps,1143,0.5,3.732,76.728
+Motorola,Unlocked & International Buying,464,0.066,2.336,45.905
+Nokia,Audio & Sound,246,0.097,2.911,50.813
+Nokia,Battery Life,552,-0.062,2.371,41.848
+Nokia,Brand Comparison,264,0.636,4.36,88.258
+Nokia,Calling & Messaging,850,0.187,2.86,57.412
+Nokia,Camera Quality,196,0.569,4.352,81.122
+Nokia,General Satisfaction,1111,0.675,4.536,90.549
+Nokia,International Reviews,322,-0.012,3.901,30.435
+Nokia,Network & Carriers,452,0.28,2.965,58.85
+Nokia,Overall Value,1881,0.723,4.455,92.398
+Nokia,Packaging & Accessories,279,0.021,2.728,45.161
+Nokia,Problems & Returns,854,-0.055,1.822,38.642
+Nokia,Purchase Decision,849,0.565,4.183,83.157
+Nokia,Screen & Design,556,0.506,3.709,76.799
+Nokia,Software & Apps,2427,0.613,3.879,82.983
+Nokia,Unlocked & International Buying,666,0.081,2.27,45.495
+OnePlus,Audio & Sound,5,-0.029,2.6,60.0
+OnePlus,Battery Life,32,0.459,3.312,71.875
+OnePlus,Brand Comparison,37,0.691,4.676,91.892
+OnePlus,Calling & Messaging,20,-0.113,2.6,45.0
+OnePlus,Camera Quality,26,0.721,4.731,92.308
+OnePlus,General Satisfaction,91,0.697,4.857,91.209
+OnePlus,International Reviews,11,-0.081,4.0,27.273
+OnePlus,Network & Carriers,28,0.19,2.857,53.571
+OnePlus,Overall Value,138,0.757,4.754,94.203
+OnePlus,Packaging & Accessories,25,0.296,4.08,68.0
+OnePlus,Problems & Returns,27,-0.214,1.889,33.333
+OnePlus,Purchase Decision,19,0.614,4.474,89.474
+OnePlus,Screen & Design,36,0.615,4.194,80.556
+OnePlus,Software & Apps,37,0.565,3.973,81.081
+OnePlus,Unlocked & International Buying,30,0.108,1.967,43.333
+Samsung,Audio & Sound,718,0.075,2.825,48.607
+Samsung,Battery Life,3110,-0.086,2.303,37.042
+Samsung,Brand Comparison,2681,0.631,4.423,86.833
+Samsung,Calling & Messaging,3313,0.085,2.669,49.079
+Samsung,Camera Quality,416,0.616,4.466,85.096
+Samsung,General Satisfaction,9667,0.692,4.661,92.883
+Samsung,International Reviews,1292,0.019,3.669,27.554
+Samsung,Network & Carriers,3103,0.244,2.913,57.718
+Samsung,Overall Value,6304,0.72,4.553,93.115
+Samsung,Packaging & Accessories,2013,0.15,3.134,53.999
+Samsung,Problems & Returns,4439,-0.058,1.965,38.522
+Samsung,Purchase Decision,3095,0.55,4.306,83.457
+Samsung,Screen & Design,2759,0.44,3.645,72.599
+Samsung,Software & Apps,2301,0.444,3.641,73.837
+Samsung,Unlocked & International Buying,2822,0.062,2.361,45.358
+Xiaomi,Audio & Sound,28,-0.132,3.179,28.571
+Xiaomi,Battery Life,117,0.205,3.274,58.12
+Xiaomi,Brand Comparison,125,0.701,4.832,93.6
+Xiaomi,Calling & Messaging,99,0.217,2.919,60.606
+Xiaomi,Camera Quality,51,0.609,4.49,86.275
+Xiaomi,General Satisfaction,202,0.75,4.713,97.03
+Xiaomi,International Reviews,581,-0.092,4.422,13.425
+Xiaomi,Network & Carriers,134,0.329,3.388,66.418
+Xiaomi,Overall Value,901,0.753,4.699,94.118
+Xiaomi,Packaging & Accessories,59,0.304,3.932,67.797
+Xiaomi,Problems & Returns,111,-0.078,2.198,40.541
+Xiaomi,Purchase Decision,86,0.624,4.698,89.535
+Xiaomi,Screen & Design,184,0.661,4.255,88.587
+Xiaomi,Software & Apps,208,0.516,3.812,77.404
+Xiaomi,Unlocked & International Buying,51,0.12,2.569,50.98

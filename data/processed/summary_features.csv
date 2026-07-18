@@ -1,0 +1,7 @@
+feature,mention_count,mention_rate_pct,avg_vader_with,avg_vader_without
+voice_assistant,592,0.547,0.549,0.383
+biometric,2167,2.002,0.646,0.379
+camera_ai,141,0.13,0.793,0.384
+battery,19046,17.6,0.413,0.378
+display,18546,17.138,0.473,0.366
+performance,17463,16.137,0.56,0.351

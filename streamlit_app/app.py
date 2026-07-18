@@ -118,4 +118,4 @@ st.markdown("""
 """)
 BASE = "/Users/vinhlam/PycharmProjects/smartphones-review-analyzer/data/processed/"
 import os
-BASE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "processed") + "/"
+BASE = "data/processed/"

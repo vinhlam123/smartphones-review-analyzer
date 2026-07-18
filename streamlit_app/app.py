@@ -117,4 +117,5 @@ st.markdown("""
 **GitHub:** [vinhlam123/smartphones-review-analyzer](https://github.com/vinhlam123/smartphones-review-analyzer)
 """)
 BASE = "/Users/vinhlam/PycharmProjects/smartphones-review-analyzer/data/processed/"
-BASE = "data/processed/"
+import os
+BASE = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "data", "processed") + "/"
